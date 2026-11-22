@@ -1,0 +1,12 @@
+booking_date,booking_time,booking_ref,first_name,rego,make,model,variant,build_year,first_registered,odometer_km,service_type,scheduled_cost,quoted_extras,service_notes,customer_type
+2026-11-24,7:30am,B1001,Sarah,1AB2CD,Toyota,RAV4,GX 2WD petrol,2021,2022-03,58900,60k scheduled service,325,"Front pads and rotors, two tyres $1,180",,private
+2026-11-24,8:00am,B1002,James,2EF3GH,Hyundai,Tucson,Active X petrol,2019,2019-06,112400,105k service incl. spark plugs,1240,,Customer asked about trade-in values last visit,private
+2026-11-24,8:15am,B1003,Priya,3IJ4KL,Tesla,Model 3,RWD,2023,2023-04,41000,Tyre rotation and cabin filter,180,,,private
+2026-11-24,8:30am,B1004,Daniel,4MN5OP,Toyota,Camry,Ascent Sport hybrid,2020,2020-09,88000,90k service,325,,,private
+2026-11-24,9:00am,B1005,Mei,5QR6ST,Mazda,CX-5,Maxx Sport,2018,2018-11,96000,96k service,640,,,private
+2026-11-24,9:30am,B1006,Tom,6UV7WX,Hyundai,i30,N Line,2022,2022-02,41000,Follow-up on rattle,0,,Second visit for same rattle,private
+2026-11-24,10:00am,B1007,Aisha,7YZ8AB,Hyundai,i30,Active sedan,2024,2024-07,18000,Annual service,299,,,private
+2026-11-24,10:30am,B1008,Craig,8CD9EF,Toyota,HiLux,SR 4x4 diesel,2020,2020-03,145000,150k service,1050,,ABC Plumbing fleet,business
+2026-11-24,11:00am,B1009,Ben,9GH1IJ,Hyundai,Kona Electric,Elite,2021,2021-05,62000,Annual EV service,210,,,private
+2026-11-24,1:00pm,B1010,Grace,1KL2MN,Toyota,Corolla,Ascent hatch,2016,2016-08,138000,135k service,720,,,private
+2026-11-25,8:00am,B1011,Liam,2OP3QR,Kia,Sportage,S,2020,2020-10,70000,75k service,560,,,private

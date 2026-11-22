@@ -1,0 +1,7 @@
+stock_no,year,make,model,variant,body_type,price,odometer_km,fuel_type,last_updated
+ST2214,2025,Toyota,RAV4,GXL Hybrid,SUV,46990,12500,Hybrid,2026-11-21T17:00
+ST2231,2024,Hyundai,Tucson,Elite Hybrid,SUV,41990,9800,Hybrid,2026-11-21T17:00
+ST2240,2022,Mazda,CX-5,Touring,SUV,34990,38000,Petrol,2026-11-21T17:00
+ST2252,2023,Toyota,Corolla,Ascent Sport Hybrid,Hatch,28990,31000,Hybrid,2026-11-21T17:00
+ST2260,2024,Hyundai,Kona Electric,Premium,SUV,44990,8500,Electric,2026-11-21T17:00
+ST2275,2023,Toyota,HiLux,SR5 4x4 diesel,Ute,58990,42000,Diesel,2026-11-21T17:00
